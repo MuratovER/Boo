@@ -960,3 +960,21 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.02-14.59.48:839][711]LogContentValidation: Display: Validating World /Game/TPSAT/Maps/level_design/levels/level_0_blockout.level_0_blockout
 [2021.11.02-14.59.48:839][711]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TPSAT/Maps/level_design/levels/level_0_blockout_BuiltData.level_0_blockout_BuiltData
 [2021.11.02-14.59.58:168][856]LogSlate: Took 0.006129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.11.02-15.05.40:980][929]LogObjectTools: Deleting 1 worlds: /Game/TPSAT/Maps/level_design/level_0_blockout.level_0_blockout
+[2021.11.02-15.05.40:980][929]LogObjectTools: Currently 1 active worlds: /Game/TPSAT/Maps/level_design/levels/level_0_blockout.level_0_blockout
+[2021.11.02-15.05.40:986][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.02-15.05.42:359][929]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.02-15.05.42:379][929]LogWorld: UWorld::CleanupWorld for level_0_blockout, bSessionEnded=true, bCleanupResources=true
+[2021.11.02-15.05.42:380][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.02-15.05.42:508][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.02-15.05.42:514][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.11.02-15.05.42:530][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.11.02-15.05.42:535][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.11.02-15.05.42:688][929]SourceControl: Error: Updated 0 paths from the index
+[2021.11.02-15.05.42:811][929]SourceControl: rm 'Content/TPSAT/Maps/level_design/level_0_blockout.umap'
+[2021.11.02-15.05.45:195][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.11.02-15.05.45:305][193]LogSavePackage: Moving 'D:/Projects/Unreal/GAME/Saved/level_0_blockout00E7773E40A202F9F0ED1EAE915A1EDF.tmp' to 'D:/Projects/Unreal/GAME/Content/TPSAT/Maps/level_design/levels/level_0_blockout.umap'
+[2021.11.02-15.05.45:381][193]LogSavePackage: Moving 'D:/Projects/Unreal/GAME/Saved/level_0_blockout_BuiltData81DCD9A743C62F31FDCA1DADAD987644.tmp' to 'D:/Projects/Unreal/GAME/Content/TPSAT/Maps/level_design/levels/level_0_blockout_BuiltData.uasset'
+[2021.11.02-15.05.45:389][193]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.02-15.05.45:389][193]LogContentValidation: Display: Validating World /Game/TPSAT/Maps/level_design/levels/level_0_blockout.level_0_blockout
+[2021.11.02-15.05.45:389][193]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TPSAT/Maps/level_design/levels/level_0_blockout_BuiltData.level_0_blockout_BuiltData
