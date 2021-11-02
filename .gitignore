@@ -79,3 +79,4 @@ DerivedDataCache/*
 BOO.uproject
 Content/Assets
 *.uproject
+*.log
